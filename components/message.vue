@@ -28,6 +28,7 @@ export default {
 }
 </script>
 
+
 <style lang="sass" scoped>
     .system
         margin-bottom: 1rem
